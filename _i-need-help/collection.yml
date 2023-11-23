@@ -2,8 +2,8 @@ collections:
   i-need-help:
     output: true
     order:
-      - I lost money to a scammer.md
-      - I Installed an apk or malware on my phone.md
-      - I gave my bank login details.md
-      - I‘m not sure if something is a scam.md
-      - I want to report a scam.md
+      - Lost money to a scammer.md
+      - Installed a malicious app, apk, or malware.md
+      - Leaked my bank login info.md
+      - Unsure if it's a scam.md
+      - Report a scam.md
