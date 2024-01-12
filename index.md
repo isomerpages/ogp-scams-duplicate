@@ -4,24 +4,23 @@ title: scams.gov.sg
 description: Government directory for scam-related information
 image: /images/isomer-logo.svg
 permalink: /
-notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Explored the
-  site? Give us feedback at go.gov.sg/scam-info –––––
+notification: Remember to Act Check Tell. Lorem Ipsum
 sections:
   - hero:
       title: Find info on scams
       subtitle: What to do you if you’ve encountered a scam
       background: /images/scamshero4.png
       key_highlights:
-        - title: I got scammed
-          description: ""
+        - title: I Need Help
+          description: I Am a Victim
           url: /transferred-money/permalink/
-        - title: Report a scam
-          description: ""
+        - title: I want to report a scam
+          description: I Saw This
           url: /report-a-scam/permalink/
-        - title: Unsure if Scam
-          description: ""
+        - title: I want to learn about scams
+          description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
-        - title: Learn about scams
+        - title: I can act against scams
           description: ""
           url: /learn-more/permalink/
       variant: center
