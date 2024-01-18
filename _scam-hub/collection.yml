@@ -1,4 +1,5 @@
 collections:
   scam-hub:
     output: true
-    order: []
+    order:
+      - ACT Campaign/.keep
