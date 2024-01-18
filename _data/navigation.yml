@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /permalink
     sublinks:
-      - title: About ScamShield
+      - title: "About ScamShield "
         url: /permalink
       - title: Members
         url: /permalink
@@ -13,8 +13,6 @@ links:
       - title: I Got Scammed!
         url: /permalink
       - title: I Want to Report a Scam
-        url: /permalink
-      - title: Protect me!
         url: /permalink
   - title: Scam Hub
     url: /permalink
