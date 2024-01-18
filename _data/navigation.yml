@@ -7,6 +7,43 @@ links:
         url: /permalink
       - title: Members
         url: /permalink
-  - title: New menu group
+  - title: Help Me!
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: I Got Scammed
+        url: /permalink
+      - title: I Want to Report a Scam
+        url: /permalink
+  - title: Scam Hub
+    url: /permalink
+    sublinks:
+      - title: ACT Campaign
+        url: /permalink
+      - title: ScamShield
+        url: /permalink
+      - title: Types of Scams
+        url: /permalink
+      - title: 5W1H of Scams
+        url: /permalink
+      - title: Anti Scam Toolkit
+        url: /permalink
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Weekly Scam Bulletin
+        url: /permalink
+      - title: Police News Release
+        url: /permalink
+      - title: In The Media
+        url: /permalink
+      - title: Victim Stories
+        url: /permalink
+      - title: Public Education Materials
+        url: /permalink
+  - title: Connect with Us
+    url: /permalink
+    sublinks:
+      - title: Public
+        url: /permalink
+      - title: Companies
+        url: /permalink
