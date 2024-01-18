@@ -2,4 +2,4 @@ collections:
   help-me:
     output: true
     order:
-      - I Got Scammed.md
+      - I Got Scammed!.md
