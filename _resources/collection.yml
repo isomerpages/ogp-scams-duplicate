@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Victim Stories.md
       - In The Media.md
       - Police News Release.md
       - Weekly Scam Bulletin.md
