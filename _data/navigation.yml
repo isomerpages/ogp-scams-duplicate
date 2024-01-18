@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /permalink
     sublinks:
-      - title: About Scams
+      - title: About ScamShield
         url: /permalink
       - title: Members
         url: /permalink
@@ -26,6 +26,8 @@ links:
       - title: 5W1H of Scams
         url: /permalink
       - title: Anti Scam Toolkit
+        url: /permalink
+      - title: I am a Scam Wizard
         url: /permalink
   - title: Resources
     url: /permalink
