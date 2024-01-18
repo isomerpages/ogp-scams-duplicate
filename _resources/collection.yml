@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - In The Media.md
       - Police News Release.md
       - Weekly Scam Bulletin.md
