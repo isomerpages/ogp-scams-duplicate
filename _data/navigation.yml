@@ -10,9 +10,11 @@ links:
   - title: Help Me!
     url: /permalink
     sublinks:
-      - title: I Got Scammed
+      - title: I Got Scammed!
         url: /permalink
       - title: I Want to Report a Scam
+        url: /permalink
+      - title: Protect me!
         url: /permalink
   - title: Scam Hub
     url: /permalink
