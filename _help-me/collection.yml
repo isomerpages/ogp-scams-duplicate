@@ -1,4 +1,5 @@
 collections:
   help-me:
     output: true
-    order: []
+    order:
+      - I Got Scammed.md
