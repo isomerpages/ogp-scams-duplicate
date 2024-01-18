@@ -1,4 +1,12 @@
 logo: /images/stopscams_logo.png
 links:
-  - title: Latest news
-    url: /latest-news/permalink
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: About Scams
+        url: /permalink
+      - title: Members
+        url: /permalink
+  - title: New menu group
+    url: /permalink
+    sublinks: []
