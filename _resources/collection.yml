@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Public Education Material/Videos.md
       - Public Education Material/.keep
       - Victim Stories.md
       - In The Media.md
