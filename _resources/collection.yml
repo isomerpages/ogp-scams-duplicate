@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Public Education Material/Offline.md
-      - Public Education Material/Videos.md
       - Public Education Material/.keep
+      - Public Education Material/Videos.md
+      - Public Education Material/Offline.md
       - Victim Stories.md
       - In The Media.md
       - Police News Release.md
