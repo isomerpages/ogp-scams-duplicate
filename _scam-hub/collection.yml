@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - ScamShield.md
-      - Anti Scam Toolkit.md
-      - 5W1H of Scams.md
       - Types of Scams.md
+      - 5W1H of Scams.md
+      - Anti Scam Toolkit.md
       - ACT Campaign/.keep
       - ACT Campaign/Overview.md
       - ACT Campaign/ADDD.md
