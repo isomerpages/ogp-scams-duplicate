@@ -2,5 +2,5 @@ collections:
   help-me:
     output: true
     order:
-      - I Want to Report A Scam.md
       - I Got Scammed!.md
+      - I Want to Report A Scam.md
