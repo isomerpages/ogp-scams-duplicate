@@ -2,6 +2,7 @@ collections:
   scam-hub:
     output: true
     order:
+      - Anti Scam Toolkit.md
       - 5W1H of Scams.md
       - Types of Scams.md
       - ACT Campaign/.keep
