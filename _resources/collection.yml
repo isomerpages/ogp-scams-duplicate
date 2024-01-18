@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - Police News Release.md
       - Weekly Scam Bulletin.md
