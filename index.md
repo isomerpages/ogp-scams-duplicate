@@ -7,8 +7,8 @@ permalink: /
 notification: Remember to Act Check Tell. Lorem Ipsum
 sections:
   - hero:
-      title: Find info on scams
-      subtitle: What to do you if you’ve encountered a scam
+      title: SCAMSHIELD HUB
+      subtitle: Your one stop scam site
       background: /images/scamshero4.png
       key_highlights:
         - title: I Need Help
@@ -24,6 +24,8 @@ sections:
           description: ""
           url: /learn-more/permalink/
       variant: center
+      button: Report a scam
+      url: https://form.gov.sg/63982e109841390011a59121
   - infobar:
       title: Transferred money? Call your bank and make a police report.
       id: infobar
