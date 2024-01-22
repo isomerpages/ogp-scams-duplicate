@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ScamShield/.keep
-      - ScamShield.md
       - Types of Scams.md
       - 5W1H of Scams.md
       - Anti Scam Toolkit.md
