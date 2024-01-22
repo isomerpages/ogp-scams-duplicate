@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - ScamShield/Apple iOS.md
-      - ScamShield/ScamShield.md
+      - ScamShield/Android OS.md
       - ScamShield/.keep
       - Types of Scams.md
       - 5W1H of Scams.md
