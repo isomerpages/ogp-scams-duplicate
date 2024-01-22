@@ -4,7 +4,8 @@ title: scams.gov.sg
 description: Government directory for scam-related information
 image: /images/isomer-logo.svg
 permalink: /
-notification: Remember to Act Check Tell. Lorem Ipsum
+notification: Mama always said, life is like a box of chocolates. You never know
+  what you gonna get. But if you ADD CHECK TELL, you will not get scammed.
 sections:
   - hero:
       title: SCAMSHIELD HUB
