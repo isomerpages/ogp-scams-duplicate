@@ -2,6 +2,7 @@ collections:
   scam-hub:
     output: true
     order:
+      - Types of Scams/Types of Scams.md
       - Types of Scams/.keep
       - ScamShield/Apple iOS.md
       - ScamShield/Android OS.md
