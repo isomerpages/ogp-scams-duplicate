@@ -9,7 +9,7 @@ notification: Mama always said, life is like a box of chocolates. You never know
 sections:
   - hero:
       title: SCAMSHIELD HUB
-      subtitle: Your one stop scam site
+      subtitle: Your One Stop Portal For Scams
       background: /images/scamshero4.png
       key_highlights:
         - title: I Need Help
