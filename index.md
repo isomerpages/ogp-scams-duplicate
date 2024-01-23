@@ -22,7 +22,7 @@ sections:
           description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
         - title: I can act against scams
-          description: ""
+          description: Protect You & Your Loved Ones
           url: /scam-hub/act-campaign/overview
       variant: center
       button: Report a scam now
