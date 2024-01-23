@@ -28,7 +28,7 @@ sections:
       button: Report a scam now
       url: https://form.gov.sg/63982e109841390011a59121
   - textcards:
-      title: TOP SCAMS THIS WEEK
+      title: TOP SCAMS OF THE WEEK
       subtitle: 05 JAN TO 11 JAN 2024
       id: textcards
       cards:
@@ -61,8 +61,8 @@ sections:
   - infobar:
       title: The Anti-Scam Toolkit
       id: infobar
-      button: More steps here
-      url: /transferred-money/permalink/
+      button: Read Now
+      url: https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx
       description: Got scammed? Not sure what is going to happen? All information on
         the investigation process for scam cases and resources available to
         support you right here.
