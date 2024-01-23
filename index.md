@@ -23,7 +23,7 @@ sections:
           url: /not-sure-if-scam/permalink/
         - title: I can act against scams
           description: ""
-          url: /learn-more/permalink/
+          url: /scam-hub/act-campaign/overview
       variant: center
       button: Report a scam now
       url: https://form.gov.sg/63982e109841390011a59121
