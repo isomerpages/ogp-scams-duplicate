@@ -94,4 +94,25 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
+  - infobar:
+      title: 1800-722-6688
+      subtitle: The anti-scam helpline
+      id: infobar
+      description: "Call the helpline If you need advice on scams (Mon-Fri: 9am to
+        6pm, excluding Public Holidays)"
+  - infocols:
+      title: 1800-722-6688
+      subtitle: The Anti-Scam Helpline
+      id: infocols
+      linktext: For advice on scams
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 23 January 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
