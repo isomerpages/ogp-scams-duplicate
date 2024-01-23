@@ -26,7 +26,7 @@ sections:
           url: /learn-more/permalink/
       variant: center
       button: Report a scam now
-      url: https://form.gov.sg/63982e109841390011a59121
+      url: target="_blank" https://form.gov.sg/63982e109841390011a59121
   - textcards:
       title: TOP SCAMS OF THE WEEK
       subtitle: 05 JAN TO 11 JAN 2024
