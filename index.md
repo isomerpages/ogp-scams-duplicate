@@ -27,6 +27,27 @@ sections:
       variant: center
       button: Report a scam now
       url: https://form.gov.sg/63982e109841390011a59121
+  - textcards:
+      title: "TOP SCAMS "
+      subtitle: 05 JAN TO 11 JAN 2024
+      id: textcards
+      cards:
+        - title: Image here
+          description: Job Scams
+          linktext: Learn more
+          url: ""
+        - title: Image here
+          description: Phishing Scams
+          linktext: Learn more
+          url: ""
+        - title: Image here
+          description: Online Shopping Scam
+          linktext: Learn more
+          url: ""
+        - title: Image Here
+          description: Investment Scams
+          linktext: Learn more
+          url: ""
   - infobar:
       title: Transferred money? Call your bank and make a police report.
       id: infobar
