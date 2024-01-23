@@ -25,7 +25,7 @@ sections:
           description: ""
           url: /learn-more/permalink/
       variant: center
-      button: Report a scam
+      button: Report a scam now
       url: https://form.gov.sg/63982e109841390011a59121
   - infobar:
       title: Transferred money? Call your bank and make a police report.
