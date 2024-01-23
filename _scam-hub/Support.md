@@ -1,7 +1,0 @@
----
-title: Support
-permalink: /scam-hub/support/
-variant: tiptap
-description: ""
----
-<h1>Community Support</h1><p>Should you require further support from the community, here are some possible avenues you may consider:</p><table><tbody><tr><th rowspan="1" colspan="1"><h3><strong>Mental Well Being</strong></h3></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Samaritans of Singapore (24-hour hotline)</p></td><td rowspan="1" colspan="1"><p>1 767</p></td></tr><tr><td rowspan="1" colspan="1"><p>Institute of Mental Health Helpline (24-hour hotline)</p></td><td rowspan="1" colspan="1"><p>6389 2222</p></td></tr><tr><td rowspan="1" colspan="1"><p>Singapore Association for Mental Health</p></td><td rowspan="1" colspan="1"><p>1800 283 7019</p></td></tr></tbody></table><p></p><table><tbody><tr><td rowspan="1" colspan="1"><h3><strong>Counselling</strong></h3></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Counselling and Care Centre</p></td><td rowspan="1" colspan="1"><p>6536 6366</p></td></tr><tr><td rowspan="1" colspan="1"><p>Care Corner Counselling Centre</p></td><td rowspan="1" colspan="1"><p>1800 377 2252</p></td></tr><tr><td rowspan="1" colspan="1"><p>Care Corner Counselling Centre</p></td><td rowspan="1" colspan="1"><p>6353 1180</p></td></tr><tr><td rowspan="1" colspan="1"><p>Care Corner Toll-Free Mandarin Counselling Hotline</p></td><td rowspan="1" colspan="1"><p>1800 353 5800</p></td></tr></tbody></table><p></p>
