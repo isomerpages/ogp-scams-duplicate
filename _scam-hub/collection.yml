@@ -2,6 +2,7 @@ collections:
   scam-hub:
     output: true
     order:
+      - Support.md
       - Types of Scams/.keep
       - Types of Scams/Types of Scams.md
       - Types of Scams/Job Scam.md
