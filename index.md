@@ -14,10 +14,10 @@ sections:
       key_highlights:
         - title: I Need Help
           description: I Am a Victim
-          url: /help-me/igotscammed/
+          url: /help-me/i-got-scammed/
         - title: Where do i report a scam
           description: I Saw This
-          url: /report-a-scam/permalink/
+          url: /help-me/i-want-to-report-a-scam/
         - title: I want to learn about scams
           description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
