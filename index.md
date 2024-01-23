@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: I Need Help
           description: I Am a Victim
-          url: /transferred-money/permalink/
+          url: /help-me/igotscammed/
         - title: I want to report a scam
           description: I Saw This
           url: /report-a-scam/permalink/
