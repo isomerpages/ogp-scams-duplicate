@@ -15,7 +15,7 @@ sections:
         - title: I Need Help
           description: I Am a Victim
           url: /help-me/i-got-scammed/
-        - title: Where do i report a scam
+        - title: Where can I report scams
           description: I Saw This
           url: /help-me/i-want-to-report-a-scam/
         - title: I want to learn about scams
