@@ -74,7 +74,7 @@ sections:
         ACT NOW TO PROTECT
         YOURSELF AGAINST SCAMS
       button: Learn more
-      url: google.com
+      url: /scam-hub/act-campaign/overview/
       image: /images/header_image.png
   - infopic:
       title: Not sure if it's a scam? Check here
