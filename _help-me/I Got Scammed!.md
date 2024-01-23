@@ -1,0 +1,7 @@
+---
+title: I Got Scammed!
+permalink: /help-me/i-got-scammed/
+variant: tiptap
+description: ""
+---
+<h1>WHAT SHOULD I DO IF I FALL PREY TO SCAMS?</h1><p></p><ul data-tight="true" class="tight"><li><p><strong>Contact your bank immediately</strong> if your account or credit card has been compromised to <strong>prevent further losses</strong>.</p></li><li><p><strong>File a police report</strong> online or in person; <strong>call 999</strong> for urgent help.</p></li><li><p><strong>Share</strong> scam information with the <strong>Police</strong> at <strong>1800 255 0000</strong>.</p></li><li><p><strong>Notify all contacts</strong> and <strong>service providers</strong> if your online account is compromised.</p></li><li><p>If you can still access your online account, <strong>change your passphrase</strong> and <strong>enable two/multi-factor authentication.</strong></p></li><li><p><strong>Report scams</strong> on social media or communications platforms, to both the<strong> Police</strong> and<strong> platform administrators</strong>.</p></li><li><p><strong>Stay alert</strong> for repeated scam attempts, including those impersonating the Police or other government authorities.</p></li><li><p>Being a victim of scam can be distressing. <strong>Seek support</strong> from family and friends.</p></li></ul><p></p>
