@@ -66,18 +66,16 @@ sections:
       description: Got scammed? Not sure what is going to happen? All information on
         the investigation process for scam cases and resources available to
         support you right here.
-  - infocols:
-      title: " CAN ACT AGAINST SCAMS"
-      subtitle: Protect you & your loved ones
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: ADD
-          description: ScamShield app and security features
-        - title: CHECK
-          description: For scam signs and with official sources
-        - title: TELL
-          description: Authorities, family and friends
+  - infopic:
+      title: I CAN ACT AGAINST SCAMS
+      subtitle: Protect yourself & loved ones
+      id: infopic
+      description: |-
+        ACT NOW TO PROTECT
+        YOURSELF AGAINST SCAMS
+      button: Learn more
+      url: google.com
+      image: /images/header_image.png
   - infopic:
       title: Not sure if it's a scam? Check here
       id: infopic
