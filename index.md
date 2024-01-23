@@ -28,7 +28,7 @@ sections:
       button: Report a scam now
       url: https://form.gov.sg/63982e109841390011a59121
   - textcards:
-      title: "TOP SCAMS "
+      title: TOP SCAMS THIS WEEK
       subtitle: 05 JAN TO 11 JAN 2024
       id: textcards
       cards:
@@ -48,21 +48,24 @@ sections:
           description: Investment Scams
           linktext: Learn more
           url: ""
-  - infobar:
-      title: Transferred money? Call your bank and make a police report.
-      id: infobar
-      button: More steps here
-      url: /transferred-money/permalink/
-      description: Keep calm and follow these steps on what to do next.
   - infopic:
-      title: Trending scams in the past week
+      title: Weekly Scam Bulletin 2024 - Issue 3
       id: infopic
-      description: Learn more about the lastest scams happening in the past week from
-        the Singapore Police Force's weekly bulletins.
+      description: Learn about the latest scam trends from the Police's Weekly Scams
+        Bulletin
       button: Learn more
       url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
       alt: Image alt text
       image: /images/weekly_bulletin.png
+      subtitle: 19 January 2024
+  - infobar:
+      title: The Anti-Scam Toolkit
+      id: infobar
+      button: More steps here
+      url: /transferred-money/permalink/
+      description: Got scammed? Not sure what is going to happen? All information on
+        the investigation process for scam cases and resources available to
+        support you right here.
   - infopic:
       title: Not sure if it's a scam? Check here
       id: infopic
