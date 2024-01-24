@@ -100,11 +100,6 @@ sections:
       id: infobar
       description: "Call the helpline If you need advice on scams (Mon-Fri: 9am to
         6pm, excluding Public Holidays)"
-  - infocols:
-      title: 1800-722-6688
-      subtitle: The Anti-Scam Helpline
-      id: infocols
-      linktext: For advice on scams
   - announcements:
       title: Announcements
       id: announcements
