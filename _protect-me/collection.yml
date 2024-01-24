@@ -2,7 +2,6 @@ collections:
   protect-me:
     output: true
     order:
-      - ADDD.md
       - Overview.md
       - Actions To Take/.keep
       - Actions To Take/Mobile Device.md
