@@ -1,4 +1,5 @@
 collections:
   protect-me:
     output: true
-    order: []
+    order:
+      - Actions To Take/.keep
