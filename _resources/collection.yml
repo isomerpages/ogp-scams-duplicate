@@ -1,0 +1,11 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Weekly Scam Bulletin.md
+      - Police News Release.md
+      - In The Media.md
+      - Victim Stories.md
+      - Public Education Material/.keep
+      - Public Education Material/Videos.md
+      - Public Education Material/Offline.md

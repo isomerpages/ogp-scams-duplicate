@@ -1,0 +1,19 @@
+collections:
+  scam-hub:
+    output: true
+    order:
+      - Types of Scams/.keep
+      - Types of Scams/Types of Scams.md
+      - Types of Scams/Job Scam.md
+      - Types of Scams/Rental Scam.md
+      - Types of Scams/Malware Scam.md
+      - Types of Scams/Impersonation Scam.md
+      - Types of Scams/Phishing Scam.md
+      - ScamShield/.keep
+      - ScamShield/About ScamShield.md
+      - ScamShield/ScamShield Bot.md
+      - ScamShield/Apple iOS.md
+      - ScamShield/Android OS.md
+      - 5W1H of Scams.md
+      - Anti Scam Toolkit.md
+      - Support For Me.md

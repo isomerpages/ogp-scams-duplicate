@@ -1,0 +1,14 @@
+logo: /images/stopscams_logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Help Me!
+    collection: help-me
+  - title: Scam Hub
+    collection: scam-hub
+  - title: Scam Quizard
+    url: /permalink
+  - title: Resources
+    collection: resources
+  - title: Connect with Us
+    collection: connect-with-us

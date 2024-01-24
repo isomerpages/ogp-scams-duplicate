@@ -1,0 +1,6 @@
+collections:
+  help-me:
+    output: true
+    order:
+      - I Got Scammed!.md
+      - I Want to Report A Scam.md

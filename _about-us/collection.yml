@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Site.md
+      - Members.md

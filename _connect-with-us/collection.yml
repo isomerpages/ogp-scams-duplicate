@@ -1,0 +1,6 @@
+collections:
+  connect-with-us:
+    output: true
+    order:
+      - Public.md
+      - Companies.md
