@@ -2,7 +2,6 @@ collections:
   protect-me:
     output: true
     order:
-      - TELL.md
       - CHECK.md
       - ADDD.md
       - Overview.md
