@@ -2,6 +2,7 @@ collections:
   protect-me:
     output: true
     order:
+      - Actions To Take/E Commerce Platforms.md
       - Actions To Take/Banking.md
       - Actions To Take/Mobile Device.md
       - Actions To Take/.keep
