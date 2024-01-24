@@ -1,0 +1,4 @@
+collections:
+  protect-me:
+    output: true
+    order: []
