@@ -1,0 +1,7 @@
+---
+title: CHECK
+permalink: /scam-hub/act-campaign/act-check/
+variant: tiptap
+description: ""
+---
+<h1><strong>CHECK</strong></h1><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/main_image_check_section.jpg"></div><p>Check for scam signs and with official sources. You can also verify with people you trust whenever you are in doubt.</p><table><tbody><tr><th rowspan="1" colspan="1"><h4><strong>Scam Signs</strong></h4></th><th rowspan="1" colspan="1"><p>Check scam signs and trends with legitimate sources (e.g. Singapore Police Force, Scam Alert, Cyber Security Agency of Singapore &amp; National Crime Prevention Council online channels).</p></th></tr><tr><td rowspan="1" colspan="1"><h4><strong>Official Platforms and Trusted Others</strong></h4></td><td rowspan="1" colspan="1"><p>If you have any doubts or suspicions about a potential scam, seek a second opinion from a trusted source. For example, you can contact the NCPC's anti-scam hotline at 1800-722-6688 or check this website for more information.</p></td></tr><tr><td rowspan="1" colspan="1"><h4><strong>Check Self</strong></h4></td><td rowspan="1" colspan="1"><p>Check your own responses and emotions. Delay responding to requests, orders, or instructions that make you feel pressured or uncertain, such as a deal with a limited time period or when you are told to resolve a matter immediately.</p></td></tr></tbody></table><p></p>
