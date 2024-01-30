@@ -21,9 +21,6 @@ sections:
         - title: I want to learn about scams
           description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
-        - title: I can act against scams
-          description: Protect You & Your Loved Ones
-          url: /scam-hub/act-campaign/overview
       variant: center
       button: Report a scam now
       url: https://form.gov.sg/63982e109841390011a59121
