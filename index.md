@@ -98,14 +98,26 @@ sections:
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
       image: /images/ScamShield_App_whitebg.png
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 23 January 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+  - textcards:
+      title: Scam Victim Stories
+      subtitle: REAL victims, real stories
+      id: textcards
+      cards:
+        - title: I PAID OVER $89 FOR A FAKE APPLICATION
+          description: "I was checking in for a flight to Canada via Dubai and was not
+            aware "
+          linktext: Learn more
+          url: https://www.scamalert.sg/stories-details/Story-29Jan2024233100PM
+        - title: Story 2
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Story 3
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Story 4
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
