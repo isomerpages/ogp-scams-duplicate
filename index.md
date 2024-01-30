@@ -73,6 +73,7 @@ sections:
       button: Learn more
       url: /scam-hub/act-campaign/overview/
       image: /images/header_image.png
+      alt: I can act against scams
   - infopic:
       title: Not sure if it's a scam? Check here
       id: infopic
