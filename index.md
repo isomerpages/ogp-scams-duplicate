@@ -17,7 +17,7 @@ sections:
           url: /help-me/i-got-scammed/
         - title: I want to be protected
           description: Steps You Can Take
-          url: /scam-hub/protect-me/overview/
+          url: /protect-me/i-can-act-against-scams/
         - title: I want to learn about scams
           description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
