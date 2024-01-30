@@ -15,9 +15,9 @@ sections:
         - title: I Need Help
           description: I Am a Victim
           url: /help-me/i-got-scammed/
-        - title: Where can I report scams
-          description: I Saw This
-          url: /help-me/i-want-to-report-a-scam/
+        - title: I want to be protected
+          description: Steps You Can Take
+          url: /scam-hub/protect-me/overview/
         - title: I want to learn about scams
           description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
