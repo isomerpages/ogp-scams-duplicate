@@ -63,14 +63,6 @@ sections:
       alt: Image alt text
       image: /images/weekly_bulletin.png
       subtitle: 19 January 2024
-  - infobar:
-      title: The Anti-Scam Toolkit
-      id: infobar
-      button: Read Now
-      url: https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx
-      description: Got scammed? Not sure what is going to happen? All information on
-        the investigation process for scam cases and resources available to
-        support you right here.
   - infopic:
       title: The Anti-Scam Toolkit
       subtitle: The One guide you need
