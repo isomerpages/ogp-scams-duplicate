@@ -79,9 +79,9 @@ sections:
         the investigation process for scam cases and resources available to
         support you right here.
       button: Read Now
-      url: www.google.com
+      url: https://www.police.gov.sg/-/media/Spf/Advisories/Scams/SPF-Anti-Scam-Resource-Guide.ashx
       image: /images/internet_love_scam.png
-      alt: Image alt text
+      alt: place_holder
   - infopic:
       title: I CAN ACT AGAINST SCAMS
       subtitle: Protect yourself & loved ones
