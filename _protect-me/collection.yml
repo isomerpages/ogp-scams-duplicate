@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Anti Scam Toolkit.md
+      - ScamShield/Apple iOS.md
       - ScamShield/ScamShield Bot.md
       - ScamShield/About ScamShield.md
       - ScamShield/.keep
