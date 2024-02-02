@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - WOG Efforts.md
       - Weekly Scam Bulletin.md
       - Police News Release.md
       - In The Media.md
