@@ -112,4 +112,15 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infocols:
+      title: Our Partners
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: NCPC LOGO
+          description: ""
+        - title: SPF LOGO
+          description: ""
+        - title: OGP LOGO
+          description: ""
 ---
