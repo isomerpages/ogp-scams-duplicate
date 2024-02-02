@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Anti Scam Toolkit.md
+      - ScamShield/About ScamShield.md
       - ScamShield/.keep
       - I Can ACT Against Scams.md
       - Actions To Take/.keep
