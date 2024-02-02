@@ -8,7 +8,7 @@ notification: Mama always said, life is like a box of chocolates. You never know
   what you gonna get. But if you ADD CHECK TELL, you will not get scammed.
 sections:
   - hero:
-      title: SCAMSHIELD HUB
+      title: SCAMSHIELD
       subtitle: Your One Stop Portal For Scams
       background: /images/scamshero4.png
       key_highlights:
