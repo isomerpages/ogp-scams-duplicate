@@ -72,6 +72,17 @@ sections:
         the investigation process for scam cases and resources available to
         support you right here.
   - infopic:
+      title: The Anti-Scam Toolkit
+      subtitle: The One guide you need
+      id: infopic
+      description: Got scammed? Not sure what is going to happen? All information on
+        the investigation process for scam cases and resources available to
+        support you right here.
+      button: Read Now
+      url: www.google.com
+      image: /images/internet_love_scam.png
+      alt: Image alt text
+  - infopic:
       title: I CAN ACT AGAINST SCAMS
       subtitle: Protect yourself & loved ones
       id: infopic
