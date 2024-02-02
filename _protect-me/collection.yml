@@ -2,6 +2,7 @@ collections:
   protect-me:
     output: true
     order:
+      - ScamShield/.keep
       - I Can ACT Against Scams.md
       - Actions To Take/.keep
       - Actions To Take/Mobile Device.md
