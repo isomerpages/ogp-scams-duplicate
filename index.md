@@ -47,10 +47,12 @@ sections:
           url: ""
   - infobar:
       title: 1800-722-6688
-      subtitle: The anti-scam helpline
+      subtitle: Unsure if its a scam?
       id: infobar
-      description: "Call the helpline If you need advice on scams (Mon-Fri: 9am to
-        6pm, excluding Public Holidays)"
+      description: Call the helpline if you are unsure if a situation you are facing
+        is a scam.
+      button: Or check with ScamShield Bot
+      url: https://go.gov.sg/scamshield-bot
   - infopic:
       title: Weekly Scam Bulletin 2024 - Issue 3
       id: infopic
@@ -104,8 +106,7 @@ sections:
       id: textcards
       cards:
         - title: I PAID OVER $89 FOR A FAKE APPLICATION
-          description: "I was checking in for a flight to Canada via Dubai and was not
-            aware "
+          description: I was checking in for a flight to Canada via Dubai and was not aware
           linktext: Learn more
           url: https://www.scamalert.sg/stories-details/Story-29Jan2024233100PM
         - title: Story 2
