@@ -2,16 +2,16 @@ collections:
   protect-me:
     output: true
     order:
-      - Anti Scam Toolkit.md
+      - I Can ACT Against Scams.md
+      - ScamShield/.keep
       - ScamShield/Android OS.md
       - ScamShield/Apple iOS.md
       - ScamShield/ScamShield Bot.md
       - ScamShield/About ScamShield.md
-      - ScamShield/.keep
-      - I Can ACT Against Scams.md
-      - Actions To Take/General Actions.md
       - Actions To Take/.keep
+      - Actions To Take/General Actions.md
       - Actions To Take/Mobile Device.md
       - Actions To Take/Banking.md
       - Actions To Take/Social Media.md
       - Actions To Take/E Commerce Platforms.md
+      - Anti Scam Toolkit.md
