@@ -1,16 +1,14 @@
 logo: /images/stopscams_logo.png
 links:
-  - title: About Us
+  - title: About ScamShield
     collection: about-us
   - title: Help Me!
     collection: help-me
   - title: Protect me
     collection: protect-me
-  - title: Learning Hub
+  - title: I CAn act against scams
     collection: scam-hub
-  - title: Scam Quiz
-    url: /permalink
+  - title: Government efforts
+    collection: connect-with-us
   - title: Resources
     collection: resources
-  - title: Connect with Us
-    collection: connect-with-us
