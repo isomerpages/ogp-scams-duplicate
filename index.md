@@ -12,17 +12,17 @@ sections:
       subtitle: Your One Stop Portal For Scams
       background: /images/scamshero4.png
       key_highlights:
-        - title: I Need Help
-          description: I Am a Victim
+        - title: i've been scammed
+          description: What should I do
           url: /help-me/i-got-scammed/
-        - title: I want to be protected
+        - title: i want protection from scams
           description: Steps You Can Take
           url: /protect-me/i-can-act-against-scams/
         - title: I want to learn about scams
           description: Scam Types and Prevention
           url: /not-sure-if-scam/permalink/
       variant: center
-      button: Report a scam now
+      button: CHECK IF ITS A SCAM
       url: https://form.gov.sg/63982e109841390011a59121
   - textcards:
       title: TOP SCAMS OF THE WEEK
@@ -45,6 +45,15 @@ sections:
           description: Investment Scams
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Trending scams
+      id: infopic
+      description: Blurb from Weekly Scams Bulletin
+      button: Learn more
+      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
+      alt: Image alt text
+      image: /images/weekly_bulletin.png
+      subtitle: 19 January 2024
   - infobar:
       title: 1800-722-6688
       subtitle: Unsure if its a scam?
@@ -53,16 +62,6 @@ sections:
         is a scam.
       button: Or check with ScamShield Bot
       url: https://go.gov.sg/scamshield-bot
-  - infopic:
-      title: Weekly Scam Bulletin 2024 - Issue 3
-      id: infopic
-      description: Learn about the latest scam trends from the Police's Weekly Scams
-        Bulletin
-      button: Learn more
-      url: https://www.police.gov.sg/Media-Room/Scams-Bulletin
-      alt: Image alt text
-      image: /images/weekly_bulletin.png
-      subtitle: 19 January 2024
   - infopic:
       title: The Anti-Scam Toolkit
       subtitle: The One guide you need
