@@ -18,11 +18,14 @@ sections:
         - title: i want protection from scams
           description: Steps You Can Take
           url: /protect-me/i-can-act-against-scams/
-        - title: I want to learn about scams
-          description: Scam Types and Prevention
+        - title: I want to check if its a scam
+          description: Unsure? Check here!
           url: /not-sure-if-scam/permalink/
+        - title: I WANT TO SHARE A SCAM
+          description: Saw something? Share with us!
+          url: ""
       variant: center
-      button: CHECK IF ITS A SCAM
+      button: REPORT A SCAM TO AUTHORITIES
       url: https://form.gov.sg/63982e109841390011a59121
   - textcards:
       title: TOP SCAMS OF THE WEEK
