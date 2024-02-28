@@ -25,7 +25,7 @@ sections:
           description: Saw something? Share with us!
           url: ""
       variant: center
-      button: MAKE A POLICE REPORT IF YOU HAvE BEEN SCAMMED
+      button: I WANT To MAKE A POLICE REPORT
       url: https://form.gov.sg/63982e109841390011a59121
   - textcards:
       title: TOP SCAMS OF THE WEEK
