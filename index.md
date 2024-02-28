@@ -25,7 +25,7 @@ sections:
           description: Saw something? Share with us!
           url: ""
       variant: center
-      button: CHECK IF ITS A SCAM
+      button: REPORT A SCAM TO AUTHORITIES
       url: https://form.gov.sg/63982e109841390011a59121
   - textcards:
       title: TOP SCAMS OF THE WEEK
