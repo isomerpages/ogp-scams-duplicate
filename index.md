@@ -80,9 +80,7 @@ sections:
       title: I CAN ACT AGAINST SCAMS
       subtitle: Protect yourself & loved ones
       id: infopic
-      description: |-
-        ACT NOW TO PROTECT
-        YOURSELF AGAINST SCAMS
+      description: ACT NOW TO PROTECT YOURSELF AGAINST SCAMS
       button: Learn more
       url: /scam-hub/act-campaign/overview/
       image: /images/header_image.png
@@ -128,4 +126,14 @@ sections:
           description: ""
         - title: OGP LOGO
           description: ""
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/bIAo--B3V3A?si=HbSi2zskpEC_07oR"
+        height="315" width="560"></iframe>
+      button: Button Text
 ---
