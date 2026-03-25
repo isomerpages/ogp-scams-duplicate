@@ -4,8 +4,7 @@ title: scams.gov.sg
 description: Government directory for scam-related information
 image: /images/isomer-logo.svg
 permalink: /
-notification: Mama always said, life is like a box of chocolates. You never know
-  what you gonna get. But if you ADD CHECK TELL, you will not get scammed.
+notification: Call 1799, the 24/7 ScamShield Helpline, to check if it’s a scam.
 sections:
   - hero:
       title: SCAMSHIELD
